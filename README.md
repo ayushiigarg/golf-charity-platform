@@ -65,7 +65,7 @@ VITE_SUPABASE_ANON_KEY=your_anon_key
 
 Installation & Setup
 # Clone the repository
-git clone https://github.com/musayyabb46/golf-charity-platform.git
+git clone https://github.com/ayushiigarg/golf-charity-platform.git
 
 # Navigate into project
 cd golf-charity-platform
